@@ -1,0 +1,1 @@
+This is a registration form made with the use of HTML and CSS
