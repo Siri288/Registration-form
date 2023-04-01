@@ -4,20 +4,21 @@
     font-style: italic;
     font-size: medium;
     position: -webkit-sticky;
+    width: 100%;
 }
 body{
-    background-color: #e1999f;
+    background-color: white;
 }
 .pageone {
     text-align: center;
     color: black;
 }
 .pageone:hover {
-    color: darkcyan
+    color: darkcyan;
 }
 .c1 {
     padding: 16px;
-    background-color: #e1999f;
+    background-color: white;
 }
 input[type=text], input[type=lname], input[type=email], input[type=address], input[type=date], input[type=password]{
     width: 100%;
@@ -37,10 +38,10 @@ select{
     width: 100%;
     padding: 15px;
     border-radius: 15px;
-    background-color: #663635
+    background-color: chartreuse;
 }
 .btt{
-    background-color: #fc766aff;
+    background-color: chartreuse;
     text-align: center;
     color: whitesmoke;
     padding: 16px 20px;
